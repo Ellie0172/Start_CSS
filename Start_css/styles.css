@@ -1,0 +1,37 @@
+body { color: black
+}
+.black_border{
+    border: 5px solid black;
+}
+#green-background {
+    background-color: green;
+}
+body{ 
+    background-color: lightgray;
+    font-family: cursive;
+}
+.ul1{ color:darkred}
+.black_border{font-style: italic; font-family: fantasy;
+color: purple;}
+
+.stamp {
+	width: 500px;
+	height: 414px;
+	background: #fff url(george.jpg) no-repeat;
+	border: 12px dashed #1b1a19; }
+.stamp p {
+	color: #fff;
+	margin: 10px 10px 0 0;
+	font: bold 60px Georgia, "Times New Roman", Times, serif;
+	text-align: right; }
+
+    .main
+     { background-color: rgb(48, 204, 95); border-style: dotted;}
+
+    .h1 {
+        font: 1.4em Georgia,serif;
+        letter-spacing: 2px;
+        font-weight: lighter;
+        text-align: center;
+        color: #58583b;
+        background: transparent 
